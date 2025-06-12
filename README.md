@@ -4,6 +4,8 @@ A lightweight, reactive TypeScript framework for building dynamic web interfaces
 
 When creating a new vite project, this should be the JavaScript / TypeScript starter template.
 
+[Try it now!](https://stackblitz.com/fork/github/thednp/framework-starter)
+
 ## Features
 
 - **Reactive State Management**: Uses signals (`signal`) and effects (`effect`) for reactive updates.
