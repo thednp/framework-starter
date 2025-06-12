@@ -1,4 +1,4 @@
-# Reactive Framework Starter
+# ⚛️ Reactive Framework Starter
 
 A lightweight, reactive TypeScript framework for building dynamic web interfaces with a simple signal-based state management system and a flexible DOM creation utility.
 

@@ -1,8 +1,10 @@
 {
   "name": "framework-starter",
+  "description": "⚛️ A lightweight, reactive TypeScript framework for building dynamic web interfaces.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "thednp",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
