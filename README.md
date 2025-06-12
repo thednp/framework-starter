@@ -98,9 +98,9 @@ const button = createElement('button',
 
 > **Notes**:
 > * `createElement` supports HTML, SVG, and MathML elements with automatic namespace resolve.
-> * Props can be static values or reactive accessors (e.g., count).
-> * Event handlers are attached for props starting with on (e.g., `onclick`).
-> * Children can be strings, numbers, DOM nodes, arrays, or reactive accessors.
+> * Props can be static values or reactive accessors (e.g., `count`).
+> * Event handlers are attached for props starting with "on" (e.g., `onclick`).
+> * Children can be `String`s, `Number`s, DOM `Node`s, `Array`s, or reactive `Accessor`s.
 
 
 ## Example Application
@@ -180,7 +180,7 @@ This is a minimal framework for educational purposes. Contributions are welcome!
 
 
 ## Credits
-All credits go to Ryan Carniato and his [tutorial video](https://www.youtube.com/watch?v=0C-y59betmY) and his [example here](https://playground.solidjs.com/anonymous/e89f77f1-19b3-4286-8dff-31902de34bdd).
+All credits go to Ryan Carniato and his [video tutorial](https://www.youtube.com/watch?v=0C-y59betmY) and his [example here](https://playground.solidjs.com/anonymous/e89f77f1-19b3-4286-8dff-31902de34bdd).
 
 
 ## License
